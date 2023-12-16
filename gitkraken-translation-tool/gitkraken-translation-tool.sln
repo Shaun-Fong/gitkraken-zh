@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gitkraken-translation-tool", "gitkraken-translation-tool.csproj", "{7D686748-9FA9-4EE6-B539-E8D8E9723C0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D686748-9FA9-4EE6-B539-E8D8E9723C0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D686748-9FA9-4EE6-B539-E8D8E9723C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D686748-9FA9-4EE6-B539-E8D8E9723C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D686748-9FA9-4EE6-B539-E8D8E9723C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12DCC342-43B8-408B-8B3D-236C20EAF1D9}
+	EndGlobalSection
+EndGlobal
